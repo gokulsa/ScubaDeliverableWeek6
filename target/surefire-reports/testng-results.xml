@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-12T17:38:37 IST" name="Suite" finished-at="2022-01-12T17:38:54 IST" duration-ms="16898">
+    <groups>
+    </groups>
+    <test started-at="2022-01-12T17:38:37 IST" name="Test" finished-at="2022-01-12T17:38:54 IST" duration-ms="16898">
+      <class name="com.tests.calculator.CalculatorTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.calculator.CalculatorTestCases@3a401749]" started-at="2022-01-12T17:38:37 IST" name="setup" finished-at="2022-01-12T17:38:45 IST" duration-ms="7499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SumTest()[pri:1, instance:com.tests.calculator.CalculatorTestCases@3a401749]" started-at="2022-01-12T17:38:45 IST" name="SumTest" finished-at="2022-01-12T17:38:47 IST" duration-ms="2563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SumTest -->
+        <test-method signature="SubTest()[pri:2, instance:com.tests.calculator.CalculatorTestCases@3a401749]" started-at="2022-01-12T17:38:47 IST" name="SubTest" finished-at="2022-01-12T17:38:50 IST" duration-ms="2333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubTest -->
+        <test-method signature="MulTest()[pri:3, instance:com.tests.calculator.CalculatorTestCases@3a401749]" started-at="2022-01-12T17:38:50 IST" name="MulTest" finished-at="2022-01-12T17:38:52 IST" duration-ms="2223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MulTest -->
+        <test-method signature="DivTest()[pri:4, instance:com.tests.calculator.CalculatorTestCases@3a401749]" started-at="2022-01-12T17:38:52 IST" name="DivTest" finished-at="2022-01-12T17:38:54 IST" duration-ms="2195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DivTest -->
+      </class> <!-- com.tests.calculator.CalculatorTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
